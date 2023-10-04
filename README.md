@@ -1,6 +1,6 @@
 # flutter_todo_app
 
-A new Flutter project.
+A new Flutter project. In this app, I have shown you how to add and delete new to-do items and search for existing to-do items from the list.
 
 ## Getting Started
 
