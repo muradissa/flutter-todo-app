@@ -2,6 +2,9 @@
 
 A new Flutter project. In this app, I have shown you how to add and delete new to-do items and search for existing to-do items from the list.
 
+# Screen
+![Screenshot](screenshot.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
